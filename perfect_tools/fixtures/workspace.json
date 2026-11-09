@@ -1,0 +1,283 @@
+[
+ {
+  "charts": [
+   {
+    "chart_name": "Leads per Week",
+    "label": "Leads per Week"
+   },
+   {
+    "chart_name": "Leads by Source",
+    "label": "Leads by Source"
+   },
+   {
+    "chart_name": "Leads by Machine",
+    "label": "Leads by Machine"
+   },
+   {
+    "chart_name": "Quotations by Status",
+    "label": "Quotations by Status"
+   },
+   {
+    "chart_name": "Quoted Value per Month",
+    "label": "Quoted Value per Month"
+   }
+  ],
+  "content": "[{\"id\": \"fe687ffcd1\", \"type\": \"header\", \"data\": {\"text\": \"\\u003cspan class=\\\"h4\\\"\\u003e\\u003cb\\u003eToday\\u003c/b\\u003e\\u003c/span\\u003e\", \"col\": 12}}, {\"id\": \"309f032cc4\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Leads This Month\", \"col\": 3}}, {\"id\": \"8b2e819e7c\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"New Leads Not Yet Called\", \"col\": 3}}, {\"id\": \"0ed64690d2\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"My Follow-ups Due\", \"col\": 3}}, {\"id\": \"24a8e81690\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Open Quotations (\\u20b9)\", \"col\": 3}}, {\"id\": \"740dc1744c\", \"type\": \"header\", \"data\": {\"text\": \"\\u003cspan class=\\\"h4\\\"\\u003e\\u003cb\\u003eLatest\\u003c/b\\u003e\\u003c/span\\u003e\", \"col\": 12}}, {\"id\": \"9e8dbd6718\", \"type\": \"quick_list\", \"data\": {\"quick_list_name\": \"Latest Leads\", \"col\": 4}}, {\"id\": \"cc0f54ea86\", \"type\": \"quick_list\", \"data\": {\"quick_list_name\": \"Open Quotations\", \"col\": 4}}, {\"id\": \"1be1411f0a\", \"type\": \"quick_list\", \"data\": {\"quick_list_name\": \"Follow-ups Due\", \"col\": 4}}, {\"id\": \"f9ff3dbc7f\", \"type\": \"header\", \"data\": {\"text\": \"\\u003cspan class=\\\"h4\\\"\\u003e\\u003cb\\u003eQuick actions\\u003c/b\\u003e\\u003c/span\\u003e\", \"col\": 12}}, {\"id\": \"41bc25210d\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"New Lead\", \"col\": 3}}, {\"id\": \"64285f9170\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"New Quotation\", \"col\": 3}}, {\"id\": \"5546c3ab31\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"My Follow-ups\", \"col\": 3}}, {\"id\": \"d04c55feac\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Leads\", \"col\": 3}}, {\"id\": \"d3c2ef654f\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Quotations\", \"col\": 3}}, {\"id\": \"2d02c157cc\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Follow-up Register\", \"col\": 3}}, {\"id\": \"495757bb59\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Lead Source Performance\", \"col\": 3}}, {\"id\": \"d4f73c6daf\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Lead Journey\", \"col\": 3}}, {\"id\": \"064cb5f95a\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Machines & Prices\", \"col\": 3}}, {\"id\": \"d3608c1741\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Customers\", \"col\": 3}}, {\"id\": \"59ad2dd819\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Follow-up Calendar\", \"col\": 3}}, {\"id\": \"9b32e24477\", \"type\": \"shortcut\", \"data\": {\"shortcut_name\": \"Settings\", \"col\": 3}}, {\"id\": \"c68ad4ad17\", \"type\": \"header\", \"data\": {\"text\": \"\\u003cspan class=\\\"h4\\\"\\u003e\\u003cb\\u003eThis month\\u003c/b\\u003e\\u003c/span\\u003e\", \"col\": 12}}, {\"id\": \"0c6aaa751a\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Quotes Sent This Month\", \"col\": 3}}, {\"id\": \"45d5bcefdb\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Won This Month (\\u20b9)\", \"col\": 3}}, {\"id\": \"7a3703336d\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Win Rate (6 months)\", \"col\": 3}}, {\"id\": \"0ba5be3f0f\", \"type\": \"number_card\", \"data\": {\"number_card_name\": \"Quotes Expired / Lost This Month\", \"col\": 3}}, {\"id\": \"762bea7672\", \"type\": \"header\", \"data\": {\"text\": \"\\u003cspan class=\\\"h4\\\"\\u003e\\u003cb\\u003eTrends\\u003c/b\\u003e\\u003c/span\\u003e\", \"col\": 12}}, {\"id\": \"5f7aa146df\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Leads per Week\", \"col\": 12}}, {\"id\": \"21576c3a3e\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Leads by Source\", \"col\": 6}}, {\"id\": \"706b4a745e\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Leads by Machine\", \"col\": 6}}, {\"id\": \"8a4dfa1370\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Quotations by Status\", \"col\": 6}}, {\"id\": \"d089c37937\", \"type\": \"chart\", \"data\": {\"chart_name\": \"Quoted Value per Month\", \"col\": 12}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "external_link": null,
+  "for_user": null,
+  "hide_custom": 0,
+  "icon": "crm",
+  "indicator_color": "green",
+  "is_hidden": 0,
+  "label": "Perfect Tools",
+  "link_to": null,
+  "link_type": "DocType",
+  "links": [],
+  "modified": "2026-11-09 17:12:49.852173",
+  "module": "Perfect Tools",
+  "module_onboarding": null,
+  "name": "Perfect Tools",
+  "number_cards": [
+   {
+    "label": "Leads This Month",
+    "number_card_name": "Leads This Month"
+   },
+   {
+    "label": "New Leads Not Yet Called",
+    "number_card_name": "New Leads Not Yet Called"
+   },
+   {
+    "label": "My Follow-ups Due",
+    "number_card_name": "My Follow-ups Due"
+   },
+   {
+    "label": "Open Quotations (₹)",
+    "number_card_name": "Open Quotations (₹)"
+   },
+   {
+    "label": "Quotes Sent This Month",
+    "number_card_name": "Quotes Sent This Month"
+   },
+   {
+    "label": "Won This Month (₹)",
+    "number_card_name": "Won This Month (₹)"
+   },
+   {
+    "label": "Win Rate (6 months)",
+    "number_card_name": "Win Rate (6 months)"
+   },
+   {
+    "label": "Quotes Expired / Lost This Month",
+    "number_card_name": "Quotes Expired / Lost This Month"
+   }
+  ],
+  "parent_page": null,
+  "public": 1,
+  "quick_lists": [
+   {
+    "document_type": "Lead",
+    "label": "Latest Leads",
+    "quick_list_filter": "[]"
+   },
+   {
+    "document_type": "Quotation",
+    "label": "Open Quotations",
+    "quick_list_filter": "[[\"Quotation\", \"docstatus\", \"=\", 1], [\"Quotation\", \"status\", \"in\", [\"Open\", \"Replied\"]], [\"Quotation\", \"pt_won_on\", \"is\", \"not set\"]]"
+   },
+   {
+    "document_type": "ToDo",
+    "label": "Follow-ups Due",
+    "quick_list_filter": "[[\"ToDo\", \"status\", \"=\", \"Open\"]]"
+   }
+  ],
+  "restrict_to_domain": null,
+  "roles": [
+   {
+    "role": "Sales User"
+   },
+   {
+    "role": "Sales Manager"
+   },
+   {
+    "role": "System Manager"
+   }
+  ],
+  "sequence_id": 0.5,
+  "shortcuts": [
+   {
+    "color": "Blue",
+    "doc_view": "New",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "New Lead",
+    "link_to": "Lead",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Blue",
+    "doc_view": "New",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "New Quotation",
+    "link_to": "Quotation",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Red",
+    "doc_view": "List",
+    "format": "{} open",
+    "icon": null,
+    "kanban_board": null,
+    "label": "My Follow-ups",
+    "link_to": "ToDo",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": "{\"status\": \"Open\"}",
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Orange",
+    "doc_view": "List",
+    "format": "{} not called",
+    "icon": null,
+    "kanban_board": null,
+    "label": "Leads",
+    "link_to": "Lead",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": "{\"status\": [\"in\", [\"Lead\", \"Open\"]]}",
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Purple",
+    "doc_view": "List",
+    "format": "{} open",
+    "icon": null,
+    "kanban_board": null,
+    "label": "Quotations",
+    "link_to": "Quotation",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": "{\"docstatus\": 1, \"status\": \"Open\"}",
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Follow-up Register",
+    "link_to": "Quotation Follow-up Register",
+    "report_ref_doctype": "Quotation",
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "Report",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Lead Source Performance",
+    "link_to": "Lead Source Performance",
+    "report_ref_doctype": "Lead",
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "Report",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Lead Journey",
+    "link_to": "Lead Journey",
+    "report_ref_doctype": "Lead",
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "Report",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Machines & Prices",
+    "link_to": "Item Price",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Customers",
+    "link_to": "Customer",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "Calendar",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Follow-up Calendar",
+    "link_to": "ToDo",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "DocType",
+    "url": null
+   },
+   {
+    "color": "Grey",
+    "doc_view": "",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Settings",
+    "link_to": "Perfect Tools Settings",
+    "report_ref_doctype": null,
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "DocType",
+    "url": null
+   }
+  ],
+  "standard": 0,
+  "title": "Perfect Tools",
+  "type": "Workspace"
+ }
+]

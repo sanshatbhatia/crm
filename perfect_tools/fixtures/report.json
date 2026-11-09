@@ -1,0 +1,44 @@
+[
+ {
+  "add_total_row": 0,
+  "add_translate_data": 0,
+  "columns": [],
+  "disable_prepared_report_automation": 0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Report",
+  "doctype_to_sync": [],
+  "documentation_url": null,
+  "filters": [],
+  "is_standard": "No",
+  "javascript": null,
+  "json": "{\"filters\":[[\"Lead\",\"number_received_on\",\"is\",\"set\"]],\"fields\":[[\"name\",\"Lead\"],[\"lead_name\",\"Lead\"],[\"company_name\",\"Lead\"],[\"source\",\"Lead\"],[\"number_received_on\",\"Lead\"],[\"first_reached_out_on\",\"Lead\"],[\"first_reached_out_via\",\"Lead\"],[\"first_connected_on\",\"Lead\"],[\"first_meeting_on\",\"Lead\"],[\"quotation_sent_on\",\"Lead\"],[\"last_response_on\",\"Lead\"],[\"last_response\",\"Lead\"],[\"status\",\"Lead\"]],\"order_by\":\"`tabLead`.`number_received_on` desc\",\"add_totals_row\":0,\"page_length\":20,\"column_widths\":{\"lead_name\":120,\"company_name\":200,\"last_response\":320},\"group_by\":null}",
+  "letter_head": "Perfect Tools - K-63 N",
+  "modified": "2026-11-07 22:41:31.566215",
+  "module": "CRM",
+  "name": "Lead Journey",
+  "prepared_report": 0,
+  "query": null,
+  "ref_doctype": "Lead",
+  "reference_report": null,
+  "report_name": "Lead Journey",
+  "report_script": null,
+  "report_type": "Report Builder",
+  "roles": [
+   {
+    "role": "Sales User"
+   },
+   {
+    "role": "Sales Manager"
+   },
+   {
+    "role": "System Manager"
+   },
+   {
+    "role": "Support Team"
+   }
+  ],
+  "snapshot_report": 0,
+  "timeout": 0
+ }
+]

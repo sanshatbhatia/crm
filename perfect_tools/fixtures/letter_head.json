@@ -1,0 +1,26 @@
+[
+ {
+  "align": "Center",
+  "content": "<div style=\"text-align: center;\">\n<img src=\"/assets/perfect_tools/images/letterhead_K-63N_with_Gorsan.jpeg\" alt=\"Perfect Tools - K-63 N\"\nwidth=\"720.0\" style=\"width: 720.0px;\">\n</div>",
+  "custom_css": null,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": "<div style=\"text-align: center;\">\n<img src=\"/assets/perfect_tools/images/footer_machines_strip.png\" alt=\"Perfect Tools - K-63 N\"\nwidth=\"720.0\" style=\"width: 720.0px;\">\n</div>",
+  "footer_align": "Center",
+  "footer_image": "/assets/perfect_tools/images/footer_machines_strip.png",
+  "footer_image_height": 0.0,
+  "footer_image_width": 720.0,
+  "footer_script": null,
+  "footer_source": "Image",
+  "header_script": null,
+  "image": "/assets/perfect_tools/images/letterhead_K-63N_with_Gorsan.jpeg",
+  "image_height": 0.0,
+  "image_width": 720.0,
+  "is_default": 1,
+  "letter_head_name": "Perfect Tools - K-63 N",
+  "modified": "2026-11-09 17:12:49.336964",
+  "name": "Perfect Tools - K-63 N",
+  "source": "Image"
+ }
+]

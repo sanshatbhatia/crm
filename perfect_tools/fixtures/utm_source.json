@@ -1,0 +1,146 @@
+[
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.920961",
+  "name": "Existing Customer",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.929278",
+  "name": "Reference",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.931411",
+  "name": "Advertisement",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.939916",
+  "name": "Cold Calling",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.941903",
+  "name": "Exhibition",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.943596",
+  "name": "Supplier Reference",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.945613",
+  "name": "Mass Mailing",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.947664",
+  "name": "Customer's Vendor",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.949778",
+  "name": "Campaign",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 21:37:09.951639",
+  "name": "Walk In",
+  "slug": null
+ },
+ {
+  "description": "Online B2B listing",
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 22:30:53.144361",
+  "name": "IndiaMART",
+  "slug": null
+ },
+ {
+  "description": "Online B2B listing",
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-07 22:30:54.141240",
+  "name": "JustDial",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-08 05:38:04.915368",
+  "name": "TradeIndia",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-08 05:38:04.923480",
+  "name": "Phone Call",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-08 05:38:04.925952",
+  "name": "WhatsApp",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-08 05:38:04.931483",
+  "name": "GORSAN Referral",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-08 05:38:04.934987",
+  "name": "Website",
+  "slug": null
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "UTM Source",
+  "modified": "2026-11-08 05:38:04.938366",
+  "name": "Social Media",
+  "slug": null
+ }
+]

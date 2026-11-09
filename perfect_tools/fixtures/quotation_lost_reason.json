@@ -1,0 +1,58 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Quotation Lost Reason",
+  "modified": "2026-11-07 22:30:54.235482",
+  "name": "Price too high",
+  "order_lost_reason": "Price too high"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Quotation Lost Reason",
+  "modified": "2026-11-07 22:30:54.322665",
+  "name": "Bought elsewhere",
+  "order_lost_reason": "Bought elsewhere"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Quotation Lost Reason",
+  "modified": "2026-11-08 05:38:04.969293",
+  "name": "Chose another brand",
+  "order_lost_reason": "Chose another brand"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Quotation Lost Reason",
+  "modified": "2026-11-08 05:38:04.974478",
+  "name": "Bought a used machine",
+  "order_lost_reason": "Bought a used machine"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Quotation Lost Reason",
+  "modified": "2026-11-08 05:38:04.977258",
+  "name": "Postponed / no shed yet",
+  "order_lost_reason": "Postponed / no shed yet"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Quotation Lost Reason",
+  "modified": "2026-11-08 05:38:04.980879",
+  "name": "Budget / financing not arranged",
+  "order_lost_reason": "Budget / financing not arranged"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Quotation Lost Reason",
+  "modified": "2026-11-08 05:38:04.984150",
+  "name": "No response",
+  "order_lost_reason": "No response"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Quotation Lost Reason",
+  "modified": "2026-11-08 05:38:04.986799",
+  "name": "Delivery time too long",
+  "order_lost_reason": "Delivery time too long"
+ }
+]
